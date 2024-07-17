@@ -1,4 +1,4 @@
-# primer-repo
+# GRANDE-COLOMBIA
 Primer repo creado en GIT HUB
 
 ## descripcion
